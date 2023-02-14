@@ -9,3 +9,6 @@ there are 2 incidents and similar design
 testing with old board ESP32-S V1.1 NODEMCU  
 
 ![xiaolaba_esp32_40MHz_fre_counter_circuit_diagram.jpg](xiaolaba_esp32_40MHz_fre_counter_circuit_diagram.jpg)  
+
+### why and how ?
+![offset.JPG](offset.JPG)  
