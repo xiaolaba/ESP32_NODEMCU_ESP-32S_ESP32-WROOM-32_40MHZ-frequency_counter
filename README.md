@@ -16,11 +16,13 @@ testing with old board ESP32-S V1.1 NODEMCU
 
 
 
-the code by this author, jgustavoam, 
+the code by this author, jgustavoam,  
 https://esp32.com/viewtopic.php?f=19&t=17018&sid=cd2508c0fff14ac11ef03914797210b7  
+
 the design theory,  
-https://blog-eletrogate-com.translate.goog/esp32-frequencimetro-de-precisao/?_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=zh-TW&_x_tr_pto=wapp 
-clone update, 2023-02-15 
+https://blog-eletrogate-com.translate.goog/esp32-frequencimetro-de-precisao/?_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=zh-TW&_x_tr_pto=wapp   
+
+clone update, 2023-02-15   
 ```
 // BLOG Eletrogate
 // ESP32 Frequencimetro
